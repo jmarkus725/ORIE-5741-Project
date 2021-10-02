@@ -1,3 +1,7 @@
+#PUT NAME HERE
+
+Jermy Markus (JEM476) and Miranda Lund (MLL228)
+
 **Background**
 
 As more and more states have started legalizing marijuana in the US, the traditional viewpoint of how governments punish drug use has come under question. Recently, countries like Portugal, Switzerland, and the Netherlands have developed extremely lenient policies regarding the sale and use of recreational drugs. Others, including Malaysia, China, and Iran, impose harsh penalties — including death — to any citizens caught with drugs. As drug usage continues to rise worldwide, it is crucial to understand the relationship between governmental regulations and drug-related hospitalizations. In 2021, Oregon became the first US state to decriminalize possession of illegal drugs. As more US states start to consider more lenient drug policies, it is important to analyze the potential positive or negative effects associated with drug laws.
