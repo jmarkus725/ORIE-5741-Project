@@ -1,6 +1,6 @@
 # ORIE 5741 Project
 
-Should the US Adopt a More Lenient Policy on Recreational Drugs?
+Possible Effects of Drug Leniency of Hospitalization Rates
 
 Miranda Lund - mll228
 
