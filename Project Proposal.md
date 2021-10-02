@@ -1,4 +1,4 @@
-# PUT NAME HERE
+# Possible Effects of Drug Leniency of Hospitalization Rates
 Jermy Markus (JEM476) and Miranda Lund (MLL228)
 
 &nbsp;
