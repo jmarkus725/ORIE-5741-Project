@@ -1,7 +1,6 @@
 # PUT NAME HERE
 Jermy Markus (JEM476) and Miranda Lund (MLL228)
 
-\vspace{24pt} 
 
 ## Background
 
